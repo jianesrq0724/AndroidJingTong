@@ -13,8 +13,8 @@
 
     <com.ruiqin.androidjingtong.view.SlideFollowView
         android:id="@+id/slidefollowview"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         />
 
     <!--<FrameLayout-->
